@@ -23,5 +23,5 @@ calculaNivel = (xp) => {
     }
 }
 
-let nivel = calculaNivel(xp);
+let nivel = calculaNivel(qtd_exp);
 console.log(`O heroi de nome ${nome} esta no nivel de ${nivel}`)
